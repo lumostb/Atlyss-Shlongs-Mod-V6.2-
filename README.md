@@ -1,15 +1,22 @@
 # Atlyss-Shlongs-Mod-V6.2-
-## A small QoL UI mod which tweaks some data shown on the toolbars for convenience purposes.
+Mod release v6.1
+Atlyss Mod for BepInEx that adds dicks to player characters!
 
-## Enemy HP values
-The exact current+max HP of each enemy is now displayed on their HP bar when you target them. Also shows correct values for bosses and HP-scaled enemies based on party size.
-Enemies that fall below below 30% HP and are susceptible to Execute are now displayed in orange.
+Made by TemtemLover (Limpid Plume).
+Assets by Bokonus.
 
-## Action skill & Quick item cooldown
-The exact amount of seconds before you can use an action skill or a quick consumable is now shown.
+To install - put the folder "ShlongAssets" into Atlyss/BepInEx/plugins/<placehere> 
+Do it if your mod manager doesn't seem to load the mod - unpack this zip manually to the specified folder.
 
-## XP required to next level
-The amount of XP required to reach the next level, relative between your current XP and the XP threshold of the next level, is now shown alongside your current total XP.
+Controls: 
+CTRL+E - Toggle Errection
+CTRL+N/B Increase/Decrease size.
+ALT+N/B Increase/Decrease Ball Size if applicable
+CTRL+F - Toggle Futa mode.
+CTRL+H/J - Shift through cock options
+CTRL+C - Set pants override mode (see dick even through pants, clipping obviously)
 
-## Persistent player character memory
-If a player disconnects from a game on one character and reconnects on another character, the name of the previous character is notified to the client so players can more easily recognise them.
+Open any game menu to bring out the mouse - inventory, quest, w/e
+Then:
+Hold ALT + CTRL and move the mouse to adjust position of the shlong.
+HOLD ALT + CTRL and use mouse scrollwheel to adjust vertical rotation of the shlong
